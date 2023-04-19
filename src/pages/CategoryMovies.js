@@ -75,7 +75,7 @@ getData(API_URL);
     <Header />
     <Component>
 
-    <h1 style={{color: 'white'}}>fuck offff</h1>
+    <h1 style={{color: 'white'}}>categories</h1>
 
      <Carousel
                     swipeable={false}
